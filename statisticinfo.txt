@@ -1,0 +1,13 @@
+Alice: 44.00
+Bob: 50.00
+Charlie: 58.67
+David: 78.67
+Emily: 64.67
+Frank: 59.33
+Grace: 66.33
+Henry: 28.33
+Ivy: 27.00
+Jack: 47.67
+maxGrade: 100
+minGrade: 0
+modeGrade: 2

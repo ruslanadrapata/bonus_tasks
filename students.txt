@@ -1,0 +1,10 @@
+Alice 85,45,2
+Bob 90,4,56
+Charlie 75,1,100
+David 80,63,93
+Emily 92,2,100
+Frank 88,56,34
+Grace 70,52,77
+Henry 85,0,0
+Ivy 78,1,2
+Jack 95,3,45
